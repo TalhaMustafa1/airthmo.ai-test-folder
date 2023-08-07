@@ -45,6 +45,7 @@ function App() {
         <div className="relative">{!isSignUp && <Navbar />}</div>
       </header>
       <Routes>
+      <Route exact path="App.js}" component={Home} />
         <Route path="/" element={<LandingPage />} />
         {/* <Route path="/howitworks" element={<ArithmoWorks />} /> 
         <Route path="/howitworks" element={<NewArithmoWorks />} />
