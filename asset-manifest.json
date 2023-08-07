@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/airthmo.ai-test-floder/static/css/main.f4bccfe1.css",
+    "main.js": "/airthmo.ai-test-floder/static/js/main.369bb500.js",
+    "static/js/787.c3209601.chunk.js": "/airthmo.ai-test-floder/static/js/787.c3209601.chunk.js",
+    "static/media/video1.mp4": "/airthmo.ai-test-floder/static/media/video1.6ab2a5d165d2a3cb37b8.mp4",
+    "static/media/video.mp4": "/airthmo.ai-test-floder/static/media/video.df719ab68843e51c0a4e.mp4",
+    "static/media/AboutUsImage.jpg": "/airthmo.ai-test-floder/static/media/AboutUsImage.b33831930ddb8d1a9b71.jpg",
+    "static/media/ArithmoWorksImage.png": "/airthmo.ai-test-floder/static/media/ArithmoWorksImage.552f3545f72b0fe552b3.png",
+    "static/media/BlogImage.jpg": "/airthmo.ai-test-floder/static/media/BlogImage.6dc88c4b69cb6a8519fe.jpg",
+    "static/media/AFontImage.png": "/airthmo.ai-test-floder/static/media/AFontImage.84aa02fbb96c69f23dc3.png",
+    "static/media/ArithmoProcess.png": "/airthmo.ai-test-floder/static/media/ArithmoProcess.679923e9ed2564d67026.png",
+    "static/media/ContractIcon.png": "/airthmo.ai-test-floder/static/media/ContractIcon.49273764e5eca955b836.png",
+    "static/media/TableImage.png": "/airthmo.ai-test-floder/static/media/TableImage.ab5e31469b27eed2afbb.png",
+    "static/media/CatalogsIcon.png": "/airthmo.ai-test-floder/static/media/CatalogsIcon.3ab2f9d6b35d7a401cec.png",
+    "static/media/graphDown.png": "/airthmo.ai-test-floder/static/media/graphDown.c26c7d76f6609ace09a8.png",
+    "static/media/graphUp.png": "/airthmo.ai-test-floder/static/media/graphUp.c9b83aea241b6eb1cf78.png",
+    "static/media/DatabaseImage.png": "/airthmo.ai-test-floder/static/media/DatabaseImage.2f1d151d5870a05be40d.png",
+    "static/media/VisualizationImage.png": "/airthmo.ai-test-floder/static/media/VisualizationImage.750d84661c4805d045e7.png",
+    "static/media/PurchaseIcon.png": "/airthmo.ai-test-floder/static/media/PurchaseIcon.0dacbb8ef6a1f3cfeba7.png",
+    "static/media/ConfirmationIcon.png": "/airthmo.ai-test-floder/static/media/ConfirmationIcon.351da3f42cbbeb6f1c55.png",
+    "static/media/ExcelImage.png": "/airthmo.ai-test-floder/static/media/ExcelImage.f4f0388a3411f566d998.png",
+    "static/media/ReportIcon.png": "/airthmo.ai-test-floder/static/media/ReportIcon.1afcc3a2f4912a2f54e8.png",
+    "static/media/BankDataIcon.png": "/airthmo.ai-test-floder/static/media/BankDataIcon.7e9501e1c0965bcf0192.png",
+    "static/media/MoreIcon.png": "/airthmo.ai-test-floder/static/media/MoreIcon.a9aa040f7cb8f6ea66c8.png",
+    "index.html": "/airthmo.ai-test-floder/index.html",
+    "main.f4bccfe1.css.map": "/airthmo.ai-test-floder/static/css/main.f4bccfe1.css.map",
+    "main.369bb500.js.map": "/airthmo.ai-test-floder/static/js/main.369bb500.js.map",
+    "787.c3209601.chunk.js.map": "/airthmo.ai-test-floder/static/js/787.c3209601.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4bccfe1.css",
+    "static/js/main.369bb500.js"
+  ]
+}
